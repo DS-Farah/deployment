@@ -3,4 +3,4 @@ opencv-python-headless
 ultralytics
 pillow
 numpy
-torch 
+torch==1.10.0  # Instead of the latest version
